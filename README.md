@@ -1,7 +1,9 @@
 # Thread
 ## What the program does
 
-The program creates a new thread using the Thread class and starts it using the start() method. It then checks if the thread is alive using the isAlive() method and waits for the thread to finish using the join() method.
+The program creates a new thread using the Thread class and starts it using the start() method. 
+
+It then checks if the thread is alive using the isAlive() method and waits for the thread to finish using the join() method.
 
 After the thread has finished, it checks if it's still alive using isAlive() again.
 
